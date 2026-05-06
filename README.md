@@ -1,3 +1,6 @@
 # CarPrices
 
-#Estructura de la base de datos
+## Base de datos
+
+* Nombre: CarDW
+* Esquemas: stg, ods, dw
